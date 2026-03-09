@@ -1,36 +1,119 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🇮🇳 Bharat AI Assistant V1
 
-## Getting Started
+### AI Chatbot Platform Built for Accessible Web AI
 
-First, run the development server:
+Bharat AI Assistant V1 is a lightweight AI-powered chatbot platform that enables users to interact with advanced Large Language Models through a simple and responsive web interface.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+The application integrates modern AI models using the OpenRouter API and demonstrates how AI assistants can be deployed quickly using scalable cloud infrastructure.
+
+The project focuses on accessibility, simplicity, and real-time interaction, allowing users to communicate with AI instantly without complicated login systems or heavy infrastructure requirements.
+
+---
+
+## 🚀 Features
+
+• Real-time AI chatbot
+• Fast AI responses using OpenRouter
+• Simple and responsive web interface
+• Cloud deployment using Vercel
+• Lightweight frontend architecture
+• Secure API key integration
+
+---
+
+## 🛠 Tech Stack
+
+Frontend
+HTML
+CSS
+JavaScript
+
+AI Integration
+OpenRouter API
+
+Deployment
+Vercel
+
+Version Control
+GitHub
+
+---
+
+## 🌐 Live Demo
+
+Add your deployed website link here.
+
+Example:
+
+https://your-vercel-app.vercel.app
+
+---
+
+## 🧠 Use Cases
+
+Bharat AI Assistant can help users with:
+
+• Coding assistance
+• Study help
+• Research questions
+• Writing support
+• Technical explanations
+• General productivity tasks
+
+---
+
+## ⚙️ Installation
+
+Clone the repository
+
+```
+git clone https://github.com/YOUR_USERNAME/Bharat-AI-Assistant-V1.git
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Navigate to the project directory
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+```
+cd Bharat-AI-Assistant-V1
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Install dependencies
 
-## Learn More
+```
+npm install
+```
 
-To learn more about Next.js, take a look at the following resources:
+Add your OpenRouter API key
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Create `.env`
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+```
+OPENROUTER_API_KEY=your_api_key_here
+```
 
-## Deploy on Vercel
+Run the project locally
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+```
+npm start
+```
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+---
+
+## 🔮 Future Improvements
+
+Voice AI assistant
+Hindi and Indian language support
+Local LLM integration using Ollama
+Mobile application
+AI productivity tools
+
+---
+
+## 👨‍💻 Author
+
+Kushagra Gupta
+
+---
+
+## ⭐ Support
+
+If you like this project, consider giving it a star ⭐
