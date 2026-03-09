@@ -1,5 +1,5 @@
 <p align="center">
-<img src="./assets/Abstract Technology Profile LinkedIn Banner (1)" width="100%">
+<img src="./assets/Abstract Technology Profile LinkedIn Banner (1)(1)" width="100%">
 </p>
 
 # 🇮🇳 Bharat AI Assistant V1
