@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="assets/banner.png" alt="banner.png.png" width="100%">
+</p>
 # 🇮🇳 Bharat AI Assistant V1
 
 ### AI Chatbot Platform Built for Accessible Web AI
