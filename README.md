@@ -11,6 +11,7 @@
 ![License](https://img.shields.io/badge/License-MIT-green)
 
 </p> 
+
 # 🇮🇳 Bharat AI Assistant V1
 
 ### AI Chatbot Platform Built for Accessible Web AI
@@ -51,6 +52,10 @@ Version Control
 GitHub
 
 ---
+
+## 🧠 Architecture
+
+User → Web Interface → API → OpenRouter LLM → AI Response → Displayed in Chat
 
 ## 🌐 Live Demo
 
