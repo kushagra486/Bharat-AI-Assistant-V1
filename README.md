@@ -1,6 +1,16 @@
 <p align="center">
   <img src="assets/banner.png" alt="banner.png.png" width="100%">
 </p>
+
+<p align="center">
+
+![AI](https://img.shields.io/badge/AI-Assistant-blue)
+![OpenRouter](https://img.shields.io/badge/API-OpenRouter-purple)
+![JavaScript](https://img.shields.io/badge/Frontend-JavaScript-yellow)
+![Vercel](https://img.shields.io/badge/Deployment-Vercel-black)
+![License](https://img.shields.io/badge/License-MIT-green)
+
+</p> 
 # 🇮🇳 Bharat AI Assistant V1
 
 ### AI Chatbot Platform Built for Accessible Web AI
