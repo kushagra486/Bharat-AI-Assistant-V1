@@ -80,6 +80,14 @@ Bharat AI Assistant can help users with:
 
 ---
 
+
+## 📸 Screenshots
+
+### Chat Interface
+![Chat](assets/screenshots/chat-interface.png)
+
+### AI Response
+![Response](assets/screenshots/ai-response.png)
 ## ⚙️ Installation
 
 Clone the repository
