@@ -63,7 +63,7 @@ Add your deployed website link here.
 
 Example:
 
-https://your-vercel-app.vercel.app
+https://bharat-ai-v1-jispos1na-kushagra486s-projects.vercel.app/
 
 ---
 
